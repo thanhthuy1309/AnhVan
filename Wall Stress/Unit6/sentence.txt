@@ -1,0 +1,13 @@
+Do you have .. ?
+No, I don't have ...
+Yes, I have ...
+Have you got ...?
+No, I haven't got ..
+Yes, I have got ..
+
+What is the lunch special?
+The lunch special is tomato soup and cola.
+How much is the lunch special?
+The lunch special is five dollars.
+When is the delivery?
+The delivery from 8 am to 10 am.
