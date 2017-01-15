@@ -11,3 +11,14 @@ How much is the lunch special?
 The lunch special is five dollars.
 When is the delivery?
 The delivery from 8 am to 10 am.
+
+
+Do you like some coffee?
+Do you like some cola?
+
+What can bring you to eat?
+What can I bring you to drink?
+What would you like to eat for dinner?
+What would you like to drink for breakfast?
+Answer: 
+I'd like ...
