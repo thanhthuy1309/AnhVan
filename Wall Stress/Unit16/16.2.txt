@@ -27,3 +27,12 @@ https://prodatblob.blob.core.windows.net/asset-cc1e445d-1500-80c3-70a8-f1e520982
 https://prodatblob.blob.core.windows.net/asset-9320445d-1500-80c3-794a-f1e520985085/nseaud04u16l2m222.mp3?sv=2012-02-12&sr=c&si=0549eca2-5ef7-4f09-a271-43858bd6be21&sig=LlG%2FZ1ZvMLPCRLdpasKLoMbuu%2BxeUhwnzVOYXS1KOhU%3D&st=2015-09-10T11%3A16%3A24Z&se=3014-09-10T17%3A26%3A24Z
 https://prodatblob.blob.core.windows.net/asset-2a22445d-1500-80c3-182c-f1e520987700/nseaud04u16l2m223.mp3?sv=2012-02-12&sr=c&si=03935457-6316-4378-93b3-c30a45506004&sig=d%2B3iWkh03WKAy%2BXnTA5Z8OrD%2FZiLb5QwVhntXkPre7I%3D&st=2015-09-10T11%3A16%3A26Z&se=3014-09-10T17%3A26%3A26Z
 https://prodatblob.blob.core.windows.net/asset-9320445d-1500-80c3-a59a-f1e52098983e/nseaud04u16l2m224.mp3?sv=2012-02-12&sr=c&si=560eaac9-01b0-4939-ba8c-ce66090dc410&sig=zTHHLpeGv8TjVp5mRuF0JpN6DeM4FpRHAXmGv6u2mSE%3D&st=2015-09-10T11%3A16%3A28Z&se=3014-09-10T17%3A26%3A28Z
+
+16.2.3
+
+https://assets.wallstreetenglish.com/asset-9320445d-1500-80c3-d6c8-f1e520aa358a/nseaud04u16l2m310.mp3?sv=2012-02-12&sr=c&si=22e46ab9-1d08-4221-b036-5e0ef1a5010c&sig=k2al9Sgc%2FogtAmnPN%2Fl60bFh4JBl4880WtJq8%2BNElh0%3D&st=2015-09-10T11%3A22%3A28Z&se=3014-09-10T17%3A32%3A28Z
+https://assets.wallstreetenglish.com/asset-cc1e445d-1500-80c3-4d5f-f1e520ab979b/nseaud04u16l2m317.mp3?sv=2012-02-12&sr=c&si=f2c32ce1-0413-42e6-a084-e3351a0b1949&sig=NoToBA6LXt83SvP3mHibF%2FS7e8BjwmezOIGK6RI5PrQ%3D&st=2015-09-10T11%3A23%3A27Z&se=3014-09-10T17%3A33%3A27Z
+https://assets.wallstreetenglish.com/asset-9320445d-1500-80c3-8cae-f1e520ac4aa8/nseaud04u16l2m321.mp3?sv=2012-02-12&sr=c&si=472dc4f9-a9df-4e3b-ac15-0a42f2286da8&sig=oJSLmXu9hwkmnLkUPNb4W%2B7u43IVdyMcG6ZeLulVpCA%3D&st=2015-09-10T11%3A23%3A37Z&se=3014-09-10T17%3A33%3A37Z
+https://assets.wallstreetenglish.com/asset-cc1e445d-1500-80c3-feda-f1e520ac94dc/nseaud04u16l2m323.mp3?sv=2012-02-12&sr=c&si=7472b3b1-d513-406b-99aa-8101939e46dd&sig=ANFmuyq2VKT6uNJekqgQD0Ww%2FgVs7EsdW264%2FtgMMHE%3D&st=2015-09-10T11%3A23%3A41Z&se=3014-09-10T17%3A33%3A41Z
+https://assets.wallstreetenglish.com/asset-cc1e445d-1500-80c3-f0b4-f1e520acb2cd/nseaud04u16l2m324.mp3?sv=2012-02-12&sr=c&si=e495f217-0187-4b3b-82b7-aed69fe8d1db&sig=ZB4ouNeMYL1BIdeZLaH5JtqTuOhKJAlgrdrEVVD%2Bb7s%3D&st=2015-09-10T11%3A23%3A44Z&se=3014-09-10T17%3A33%3A44Z
+https://assets.wallstreetenglish.com/asset-cc1e445d-1500-80c3-3853-f1e520acdcde/nseaud04u16l2m325.mp3?sv=2012-02-12&sr=c&si=a0623dec-553c-4548-b237-ec47438be0a1&sig=eZUljsjA6AIHqrdKLAO7XpXFQpdJb%2FWKiQaQ3ibfqhU%3D&st=2015-09-10T11%3A24%3A25Z&se=3014-09-10T17%3A34%3A25Z
